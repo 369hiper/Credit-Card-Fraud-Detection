@@ -2,10 +2,10 @@
 In this Project, We are Operating an Online Book store, Not as big as Amazon/Kindle. However, This E-Commerce also had a Transaction Traffic of 1,000s of Books. We’ll use an available dataset for these, that have Real Credit Card Transactions that have been anonymized for curtesy of Privacy of the Customers. The Problem with Credit Card fraud Detection is that anyone can steal their 15/16 Digit numeric digits with a Security Code and an Expiration date to make Online Purchases in the CardHolder’s Name.
 
 I am using Python 3.6.1 for this project. You need to install the folowing Python libraries.
-  NumPy (for documentation:http://www.numpy.org/)
-  Pandas (for documentation:http://pandas.pydata.org/)
-  Scikit-Learn (for documentation:http://scikit-learn.org/stable/)
-  Seaborn (for documentation:https://seaborn.pydata.org/)
+ 1. NumPy (for documentation:http://www.numpy.org/)
+ 2. Pandas (for documentation:http://pandas.pydata.org/)
+ 3. Scikit-Learn (for documentation:http://scikit-learn.org/stable/)
+ 4. Seaborn (for documentation:https://seaborn.pydata.org/)
 I have been using Jupyter Notebook for this project.
 
 # Code:
