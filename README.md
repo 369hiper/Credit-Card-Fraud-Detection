@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection
+In this Project, We are Operating an Online Book store, Not as big as Amazon/Kindle. However, This E-Commerce also had a Transaction Traffic of 1,000s of Books. We’ll use an available dataset for these, that have Real Credit Card Transactions that have been anonymized for curtesy of Privacy of the Customers. The Problem with Credit Card fraud Detection is that anyone can steal their 15/16 Digit numeric digits with a Security Code and an Expiration date to make Online Purchases in the CardHolder’s Name.
