@@ -22,3 +22,16 @@ It contains only numerical input variables which are the result of a PCA transfo
 1. Outlier Fraction - 0.0017304750013189597
 2. Fraud Cases: 492
 3. Valid Cases: 284315
+
+
+ The Criteria for Detection of Fraudulent Transactions are simple as Follows -:
+
+  1. Is This the first purchase ever from the Consumer and it’s over 500$.
+  2. The IP-Address (Internet Protocol) is from Country (A) [China], The Billing Address is from Country (B) [Germany] and The Shipping      Address is from Country (C) India.
+
+We’re trying to Protect the CardHolder’s Who own the Credit Card from those who have stolen the Credit Card and are trying to make fraudulent transaction in their Name.
+
+# Challenges Faced
+One of the Biggest Challenge with This Problem is that the Vast Majority of the Transaction are Non-Fraudulent, This will make it Harder for us, to detect the Underlying Patterns in the Information Available.
+# Steps for Overcoming for Challenge
+To Overcome This Problem, We will apply different Sampling Techniques and Different Metrics Available with 99.94% Accuracy that information is any Good.
